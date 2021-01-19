@@ -47,7 +47,7 @@ function App() {
         <hr/>
       </div>
     </div>
-  );
+  );  
 }
 
 export default App;
